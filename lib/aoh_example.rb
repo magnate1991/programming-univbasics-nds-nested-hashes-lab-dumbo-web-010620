@@ -16,13 +16,13 @@ def assembled_aoh = [
        {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}
        ]
 
-ALL_CAPS = [
-  DON_G,
-  JOELLE_VD,
-  PAT_M,
-  KATE_G,
-  BRUCE_G
-  ]
+# ALL_CAPS = [
+#   DON_G,
+#   JOELLE_VD,
+#   PAT_M,
+#   KATE_G,
+#   BRUCE_G
+#   ]
 end
 
 def literal_aoh
