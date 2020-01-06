@@ -22,6 +22,9 @@ ALL_CAPS = [
   KATE_G,
   BRUCE_G
   ]
+   ALL_CAPS = [
+     
+     ]
 end
 
 def literal_aoh
